@@ -1,8 +1,8 @@
-###ANSWER KEY
+###Assignment Template
 library(sf)
 library(RColorBrewer)
 library(ggmap)
-library(viridis)
+#library(viridis)
 ##Read in Georgia counties file in assignment_data folder
 ga_counties <- "FILL THIS IN"
 ##Look at column names of variables in file
