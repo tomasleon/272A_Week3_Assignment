@@ -2,6 +2,9 @@
 library(sf)
 library(RColorBrewer)
 library(ggmap)
+library(viridis)
+library(dplyr)
+library(classInt)
 
 ##Read in Georgia counties file in assignment_data folder
 ga_counties <- "FILL THIS IN"
